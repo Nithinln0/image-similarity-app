@@ -1,0 +1,13 @@
+torch
+torchvision
+ftfy
+regex
+tqdm
+git+https://github.com/openai/CLIP.git
+scikit-learn
+Pillow
+streamlit
+torch
+sqlite3
+clip
+bcrypt

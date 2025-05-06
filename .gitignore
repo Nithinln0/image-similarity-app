@@ -1,0 +1,5 @@
+users.db
+image_comparisons.db
+__pycache__/
+*.pyc
+venv/
