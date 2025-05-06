@@ -1,13 +1,6 @@
-torch
-torchvision
-ftfy
-regex
-tqdm
-git+https://github.com/openai/CLIP.git
-scikit-learn
-Pillow
 streamlit
 torch
-sqlite3
-clip
+torchvision  # Required for CLIP
+pillow
+clip @ git+https://github.com/openai/CLIP.git  # Install CLIP from GitHub
 bcrypt
